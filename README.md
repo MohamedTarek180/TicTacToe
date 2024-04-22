@@ -12,5 +12,5 @@ Run TicTacToe.py to start the game.
 Click on the board positions to make your moves as "O".
 Try to beat the AI who plays as "X".
 # Requirements
-Python 3.x
+Python 3.x ,
 tkinter module
